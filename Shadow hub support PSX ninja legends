@@ -1,0 +1,161 @@
+local id = game.PlaceId
+
+_G.Supported = false
+
+if(id == 10945472407) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/sss%20fauq%20gg", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11153589280) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%5BCODES%20%F0%9F%91%81%5D%20DOORS%20Race", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11497582055) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%5BTRAILS%20%F0%9F%8C%88%5D%20Rainbow%20Friends%20Race", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11656842204) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%5BTRAILS%20%F0%9F%8C%88%5D%20Rainbow%20Friends%20Race", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11547613362) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%5B%F0%9F%8C%B8JAPAN%5D%20%E2%9B%A9%EF%B8%8F%20Anime%20Fly%20Race", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11746859781) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%5B%F0%9F%9A%A8UPDATE%F0%9F%9A%A8%5D%20Bubble%20Gum%20Clicker!", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 10824616460) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%E2%9A%94%EF%B8%8F%20%5BSPACE%5D%20Sword%20Slasher", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 8712817601) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/BARRY'S%20PRISON%20RUN!", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11818704485) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%2B1%20Damage%20Every%20Second", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 8568266872) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/Kill%20Monsters%20to%20Save%20Princess", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 537413528) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/Build%20A%20Boat%20For%20Treasure", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11636413564) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%5BNEW%5D%20Meme%20Mergers%20%F0%9F%A4%A3", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11939099110) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/Ski%20Race!", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 11040063484) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%E2%9A%94%EF%B8%8F%20Sword%20Fighters%20Simulator", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 2472820296) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%5B%F0%9F%94%A52X%20LIFT!%5D%20Ultimate%20Lifting%20Simulator%F0%9F%92%AA", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 12172698927) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/Sword%20Race", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 7099101610) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/reco%20ivedi", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 10856739284) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/%F0%9F%97%A1%EF%B8%8F%20Duvar%20Sim%C3%BClat%C3%B6r%C3%BCn%C3%BC%20K%C4%B1r%20omg", true))()
+
+_G.Supported = true
+
+end
+
+if(id == 12911986432) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/Sms%202", true))()
+
+_G.Supported = true
+
+end
+
+if _G.Supported == false then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/Universal", true))()
+
+end
