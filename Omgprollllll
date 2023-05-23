@@ -1,0 +1,25 @@
+_G.Premium = false
+
+if _G.Premium == true then
+
+loadstring(game:https://raw.githubusercontent.com/Superavvaun/Nam/main/Omg", true))()
+
+end
+
+if _G.Premium == false then
+
+   
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/Hub%20Script%20Loader", true))()
+
+end
+
+-- BlackList
+
+https://raw.gloadstring(game:HttpGet("https://raw.githubusercontent.com/Superavvaun/Nam/Omg/Omg%20ro", true))()
+
+end
+
+-- Premium
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxExploitScripter/RobloxExploitScripts/main/Premium/loadstring", true))()
